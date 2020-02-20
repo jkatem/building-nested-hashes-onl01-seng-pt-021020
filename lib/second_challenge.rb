@@ -1,4 +1,4 @@
-# def second_challenge
+def second_challenge
 #   epic_tragedy = {
 #     :montague => {
 #       #your key/value pairs here!
@@ -30,3 +30,4 @@ epic_tragedy = {
       :heroine_friends => []
    }
 }
+end
